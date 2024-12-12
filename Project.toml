@@ -1,0 +1,14 @@
+name = "JUFO"
+uuid = "6db5d0d5-af19-4d57-9dd5-6d455c0f0e21"
+authors = ["JT"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Aqua", "Test"]
