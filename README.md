@@ -9,4 +9,4 @@ Semestral project for **Julia for Optimization and Learning** class on CTU in Pr
  * Linear programming
    
 ## Tests or Examples
-* use implemented tools to create LQR regulator for simple control problem 
+* use implemented tools to create LQR/KALMAN regulator for simple control problem 
