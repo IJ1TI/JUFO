@@ -4,7 +4,7 @@ Semestral project for **Julia for Optimization and Learning** class on CTU in Pr
 
 ## Goals (to be implemented)
  * gradient descent method
- * nonlinear optimization - Newton-Rhapson, Gauss-Newton, Levenberg-MArquard  
+ * nonlinear optimization - Newton-Rhapson, Gauss-Newton, Levenberg-Marquard  
  * linear optimization tools - PCA, Linear regression, Least ssquares
  * Linear programming
    
